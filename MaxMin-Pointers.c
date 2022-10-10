@@ -3,7 +3,7 @@
 #define N 208
 
 void max_min(int a[], int n, int *max, int *min);
-//Phillip pdelrossi1 -> 208 options
+//208 options
 int main(void) {
    int b[N], i, big, small;
    int tempVar = -1;
